@@ -1,0 +1,129 @@
+
+
+header{
+    background-color: #E91E63;
+    
+}
+
+
+
+header div img{
+    width: 100px;
+    margin: 10px;
+    
+}
+header{
+    padding: 30px 50px;
+}
+
+header .menu ul .imtem a{
+
+    font-family: 'Poppins', sans-serif;
+    color: white;   
+    padding: 10px 0;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between; /* Separa los grupos */
+    align-items: center; /* Alinea verticalmente */
+    
+    
+}
+
+
+
+
+
+main{
+    background-color: #FF69B4;
+    padding: 50px 10px;
+}
+main .castillo img{
+    width: 500px;
+    padding: 20px 0;
+}
+main h1 {
+    font-size: 80px;
+    font-family: "Princess Sofia", serif;
+    font-weight: 800;
+    font-style: normal;
+    text-align: center;
+    
+    
+}
+main p{
+    font-family: 'Poppins', sans-serif;
+    margin: 5px;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+}
+main .castillo{
+    display: flex;
+    justify-content: center;
+}
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #D291BC; /* Color de fondo del footer */
+}
+
+.map-container {
+    text-align: center;
+    max-width: 100%;
+}
+
+h2 {
+    font-size: 24px;
+    color: black; /* Rojo elegante, puedes cambiarlo */
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+iframe {
+    max-width: 100%;
+    height: 350px; /* Ajusta según necesidad */
+    border-radius: 10px; /* Bordes redondeados para un mejor diseño */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para resaltar el mapa */
+}
+/* pagina saber mas*/
+.good-practicas .titulo{
+    text-align: center;
+}
+
+
+/*main*/
+
+.content{
+    text-align: left;
+}
+.content .text{
+    text-align: center;
+    color: black;
+}
+
+.recommendations .section-title{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+.recommendations .text{
+    text-align: left;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.recommendations ul li{
+    list-style: none;
+}
+.recommendations ul li p{
+    text-align: left;
+    
+    
+}
